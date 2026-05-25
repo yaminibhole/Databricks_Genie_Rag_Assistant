@@ -1,0 +1,8 @@
+databricks-vectorsearch
+databricks-sdk
+pyspark
+pandas
+langchain
+openai
+tiktoken
+pypdf
