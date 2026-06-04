@@ -5,7 +5,7 @@
 Databricks Genie RAG Assistant is a GenAI-powered enterprise analytics solution built using native Databricks services to enable intelligent querying across both structured and unstructured enterprise data.
  
 The project combines:
-- Text-to-SQL capabilities using Databricks Genie
+- Natural language querying powered by Databricks Genie 
 - Retrieval-Augmented Generation (RAG)
 - Vector Search for semantic retrieval
 - Unity Catalog for centralized governance
